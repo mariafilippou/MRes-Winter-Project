@@ -39,4 +39,4 @@ CODE
 
 MakeDelifingTable.rb - code used to calculate recruits 
 
-sparrow_analysis.csv - code used in the 'statisical analysis' section
+sparrow_code.csv - code used in the 'statisical analysis' section
